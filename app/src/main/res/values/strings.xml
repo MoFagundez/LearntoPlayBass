@@ -11,6 +11,6 @@
         You can continue each lesson from where you stopped, and always add additional tunes to your collection.
     </string>
     <string name="activity_start">In this activity, the user will be able to pick the lesson or song and start practicing. It will automatically save the last completed lesson.\n\n
-        After the song is done, Robert Trujillo will show the score. </string>
+        After the song is done, Robert Trujillo will show the score. The score will be shared and the app will maintain a high score and user rankings.</string>
     <string name="activity_more_songs">In this activity, the user will be able to purchase additional songs via Google Wallet or Credit Card, or even redeem gifts from friends.</string>
 </resources>
