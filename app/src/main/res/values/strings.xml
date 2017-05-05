@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Learn to Play Bass</string>
+    <string name="button_about">About</string>
+    <string name="button_start">Start</string>
+    <string name="button_more">More songs</string>
+    <string name="dialog_info">"Learn to Play Bass with Robert Trujillo" is an app that plays Metallica songs so you can play along with
+        your own bass! Using your device microphone, Trujillo will help and rate your progress throughout the lessons! What are you waiting for? Start learning now!</string>
+    <string name="activity_about">This app was created specially for rookie bass players willing to ramp up their skills with one of the best five-string pluckers in the world!\n\n
+        With several different levels, starting from Mama Said (Load, 1996) to For Whom The Bell Tolls (Ride The Lightning, 1984), you will feel like taking private lessons with Trujillo himself!\n\n
+        Starting from level one, Trujillo will guide you throughout the song by showing which note to play and rating at the same time whether or not you are playing the correct note at the correct time.\n\n
+        You can continue each lesson from where you stopped, and always add additional tunes to your collection.
+    </string>
+    <string name="activity_start">In this activity, the user will be able to pick the lesson or song and start practicing. It will automatically save the last completed lesson.\n\n
+        After the song is done, Robert Trujillo will show the score. </string>
+    <string name="activity_more_songs">In this activity, the user will be able to purchase additional songs via Google Wallet or Credit Card, or even redeem gifts from friends.</string>
+</resources>

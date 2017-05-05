@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.modashmo.learntoplaybass.MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/rob_truj" />
+
+    <TextView
+        android:id="@+id/about_text_view"
+        style="@style/MainActivityButtons"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:text="@string/button_about" />
+
+    <TextView
+        android:id="@+id/more_text_view"
+        style="@style/MainActivityButtons"
+        android:layout_above="@id/about_text_view"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:text="@string/button_more" />
+
+    <TextView
+        android:id="@+id/start_text_view"
+        style="@style/MainActivityButtons"
+        android:layout_above="@id/more_text_view"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:text="@string/button_start" />
+
+</RelativeLayout>
