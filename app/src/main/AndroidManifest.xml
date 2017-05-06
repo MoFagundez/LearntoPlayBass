@@ -20,12 +20,15 @@
         </activity>
         <activity
             android:name=".AboutActivity"
+            android:label="About this app"
             android:screenOrientation="portrait" />
         <activity
             android:name=".StartActivity"
+            android:label="Lesson 1"
             android:screenOrientation="portrait" />
         <activity
             android:name=".MoreSongsActivity"
+            android:label="Get more songs"
             android:screenOrientation="portrait"></activity>
     </application>
 
